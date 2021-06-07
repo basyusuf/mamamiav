@@ -30,6 +30,8 @@
     "class-validator": "^0.13.1",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
-    "reflect-metadata": "^0.1.13"
+    "pg": "^8.6.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.34"
   }
 }
