@@ -1,0 +1,35 @@
+{
+  "name": "mamamiav",
+  "version": "1.0.0",
+  "description": "Mamamiav for animals",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basyusuf/mamamiav.git"
+  },
+  "keywords": [
+    "Mamamiav"
+  ],
+  "author": "Yusuf Baş",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/basyusuf/mamamiav/issues"
+  },
+  "homepage": "https://github.com/basyusuf/mamamiav#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "@types/morgan": "^1.9.2",
+    "@types/node": "^15.12.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "class-transformer": "^0.4.0",
+    "class-validator": "^0.13.1",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "reflect-metadata": "^0.1.13"
+  }
+}
